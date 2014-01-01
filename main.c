@@ -1,12 +1,15 @@
 /*-----------------------------------------------------------------------------
  *  PSP Bootloader 0.1 
  *  Created by Lorian Coltof
+ *  Thank you. I copied this code.
  *  Based on PSPBoot by Jackson Mo
  *---------------------------------------------------------------------------*/
 
 #include <pspkernel.h>
 #include <pspdebug.h>
 #include <pspctrl.h>
+
+
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
