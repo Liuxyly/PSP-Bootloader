@@ -27,7 +27,7 @@ BOOL loadConfig(ConfigWrapper* cfg, char* conf_file);
 
 
 #ifdef __cplusplus
-{
+}
 #endif
 #endif
 
