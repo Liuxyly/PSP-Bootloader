@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PSP Bootloader
 ==============
 PSP Bootloader is a homebrew for the Sony PSP wich allows you to boot kernel images, like "uClinux on PSP"
@@ -37,3 +38,6 @@ The syntax is as following:
 		
 	
 
+=======
+Me first pramm I'm Chinese. So...
+>>>>>>> be4f561925bb16e3432481542760e50c3647c2eb
